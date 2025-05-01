@@ -16729,3 +16729,1437 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.01-14.53.40:315][441]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2025.05.01-14.53.40:315][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.05.01-14.53.40:398][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.01-14.54.55:831][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.01-14.54.55:837][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level_1/D/4C/TJYVI8LCSQ6FWYMLG40VZD_Auto5
+[2025.05.01-14.54.55:837][918]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/TJYVI8LCSQ6FWYMLG40VZD_Auto59AA86CA04F4EF68C7094F590862CCDB3.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/__ExternalActors__/Levels/Level_1/D/4C/TJYVI8LCSQ6FWYMLG40VZD_Auto5.uasset'
+[2025.05.01-14.54.55:838][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.029
+[2025.05.01-14.54.55:838][918]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.05.01-14.56.41:261][290]LogSlate: Window 'BP_Kart' being destroyed
+[2025.05.01-14.56.41:339][290]LogSlate: Window 'BP_Kart' being destroyed
+[2025.05.01-14.56.41:343][290]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.01-14.56.41:343][290]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-14.56.41:344][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-14.56.41:431][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.01-14.58.19:221][263]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.01-14.58.30:194][754]Cmd: TRANSACTION UNDO
+[2025.05.01-14.58.30:194][754]LogEditorTransaction: Undo Clic sugli elementi
+[2025.05.01-14.58.30:907][767]Cmd: TRANSACTION UNDO
+[2025.05.01-14.58.30:908][767]LogEditorTransaction: Undo Clic sull'attore
+[2025.05.01-14.58.31:788][792]Cmd: TRANSACTION UNDO
+[2025.05.01-14.58.31:789][792]LogEditorTransaction: Undo Clic sugli elementi
+[2025.05.01-14.59.07:823][258]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/giorg/Box_74B86182.Box_74B86182
+[2025.05.01-14.59.07:825][258]LogStaticMesh: Display: Compilazione mesh statica Box_74B86182 (stima della memoria necessaria: 0.027864 MB)...
+[2025.05.01-14.59.07:827][258]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/giorg/Box_74B86182.Box_74B86182 as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_UAID_DC4BA108E58B346402_1907940250
+[2025.05.01-14.59.07:828][258]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/giorg/Box_74B86182.Box_74B86182
+[2025.05.01-14.59.26:358][538]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5544.996582
+[2025.05.01-14.59.27:354][541]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-14.59.27:354][541]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5545.666504, Update Interval: 307.064423
+[2025.05.01-15.01.49:298][673]LogStaticMesh: Display: Compilazione mesh statica Box_74B86182 (stima della memoria necessaria: 0.080549 MB)...
+[2025.05.01-15.01.49:300][673]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/giorg/Box_74B86182.Box_74B86182
+[2025.05.01-15.02.46:645][882]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.01-15.02.46:661][882]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.01-15.02.46:680][883]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.01-15.04.56:568][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.01-15.04.56:576][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level_1/D/4C/TJYVI8LCSQ6FWYMLG40VZD_Auto6
+[2025.05.01-15.04.56:576][318]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/TJYVI8LCSQ6FWYMLG40VZD_Auto6213B16804F527C6629D2359E4462282A.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/__ExternalActors__/Levels/Level_1/D/4C/TJYVI8LCSQ6FWYMLG40VZD_Auto6.uasset'
+[2025.05.01-15.04.56:581][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level_1/B/E3/4K0P28DFWPPQHCN2GA6PH0_Auto6
+[2025.05.01-15.04.56:581][318]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/4K0P28DFWPPQHCN2GA6PH0_Auto6ED8B5C774BDA1DFDBD3628BCC920C451.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/__ExternalActors__/Levels/Level_1/B/E3/4K0P28DFWPPQHCN2GA6PH0_Auto6.uasset'
+[2025.05.01-15.04.56:584][318]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.114
+[2025.05.01-15.04.56:584][318]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
+[2025.05.01-15.04.56:585][318]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/giorg/Box_74B86182] ([1] browsable assets)...
+[2025.05.01-15.04.56:596][318]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/giorg/Box_74B86182.Box_74B86182]
+[2025.05.01-15.04.56:596][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/giorg/Box_74B86182]
+[2025.05.01-15.04.56:600][318]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/giorg/Box_74B86182_Auto6
+[2025.05.01-15.04.56:600][318]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Box_74B86182_Auto6ABE42CCA43AB36A63261F7839BDBC213.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/Levels/_GENERATED/giorg/Box_74B86182_Auto6.uasset'
+[2025.05.01-15.04.56:601][318]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.05.01-15.05.24:414][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5903.050781
+[2025.05.01-15.05.25:415][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-15.05.25:415][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5903.712402, Update Interval: 345.182648
+[2025.05.01-15.06.10:269][540]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.05.01-15.06.10:269][540]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.01-15.06.55:516][269]LogContentBrowser: Attempting asset rename: NewFolder -> ItemBox
+[2025.05.01-15.07.06:347][864]LogSlate: Window 'Caricamento di molti asset' being destroyed
+[2025.05.01-15.07.06:358][864]Message dialog closed, result: Yes, title: Caricamento di molti asset, text: Stai per caricare 145 asset. Vuoi davvero continuare?
+[2025.05.01-15.07.06:426][864]LogStreaming: Display: FlushAsyncLoading(999): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.07.06:466][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Wood_Walnut_N.T_Wood_Walnut_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.06:474][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Wood_Pine_N.T_Wood_Pine_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.06:480][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Wood_Walnut_D.T_Wood_Walnut_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.06:488][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Wood_Pine_D.T_Wood_Pine_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.06:510][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Wood_Oak_N.T_Wood_Oak_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.06:514][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Wood_Oak_D.T_Wood_Oak_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.06:971][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.01-15.07.07:092][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Wood_Floor_Walnut_M.T_Wood_Floor_Walnut_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:099][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Wood_Floor_Walnut_N.T_Wood_Floor_Walnut_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:108][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Water_N.T_Water_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:156][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Water_M.T_Water_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:156][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Wood_Floor_Walnut_D.T_Wood_Floor_Walnut_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:541][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Tech_Hex_Tile_N.T_Tech_Hex_Tile_N (TFO_BC5, 1024x1024 x1x1x1) (Memoria richiesta stimata: 191.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:571][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Tech_Panel_M.T_Tech_Panel_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:573][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Tech_Panel_N.T_Tech_Panel_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:579][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Tech_Hex_Tile_M.T_Tech_Hex_Tile_M (TFO_AutoDXT, 1024x1024 x1x1x1) (Memoria richiesta stimata: 122.708323 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:601][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Tech_Dot_N.T_Tech_Dot_N (TFO_BC5, 512x512 x1x1x1) (Memoria richiesta stimata: 82.499988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:636][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Tech_Dot_M.T_Tech_Dot_M (TFO_AutoDXT, 512x512 x1x1x1) (Memoria richiesta stimata: 30.83325 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:674][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_TableRound_M.T_TableRound_M (TFO_DXT1, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:718][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_TableRound_N.T_TableRound_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:741][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Statue_N.T_Statue_N (TFO_BC5, 1024x1024 x1x1x1) (Memoria richiesta stimata: 191.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:778][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Statue_M.T_Statue_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:839][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Spark_Core.T_Spark_Core (TFO_AutoDXT, 512x512 x1x1x1) (Memoria richiesta stimata: 30.83325 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:839][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Single_Tile_N.T_Single_Tile_N (TFO_BC5, 256x256 x1x1x1) (Memoria richiesta stimata: 19.499759 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:839][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D (TFO_AutoDXT, 256x256 x1x1x1) (Memoria richiesta stimata: 8.458304 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:866][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Smoke_SubUV.T_Smoke_SubUV (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:907][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Shelf_M.T_Shelf_M (TFO_DXT1, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:911][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Shelf_N.T_Shelf_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.07:969][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.08:036][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Rock_Slate_N.T_Rock_Slate_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.08:357][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Rock_Sandstone_D.T_Rock_Sandstone_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.08:362][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Rock_Basalt_N.T_Rock_Basalt_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.08:366][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Rock_Sandstone_N.T_Rock_Sandstone_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.08:391][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.08:404][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Rock_Basalt_D.T_Rock_Basalt_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.08:424][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Rock_Slate_D.T_Rock_Slate_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:141][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_RockMesh_M.T_RockMesh_M (TFO_DXT1, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:165][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_RockMesh_N.T_RockMesh_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:187][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Metal_Steel_N.T_Metal_Steel_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:194][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:221][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Metal_Steel_D.T_Metal_Steel_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:294][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Metal_Rust_N.T_Metal_Rust_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:754][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Metal_Rust_D.T_Metal_Rust_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:763][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Metal_Gold_D.T_Metal_Gold_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:785][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Metal_Gold_N.T_Metal_Gold_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:803][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Metal_Aluminum_D.T_Metal_Aluminum_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:811][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Metal_Copper_D.T_Metal_Copper_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.09:811][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_MacroVariation.T_MacroVariation (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.10:520][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Lamp_N.T_Lamp_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.10:524][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Lamp_M.T_Lamp_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.10:550][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Ground_Moss_N.T_Ground_Moss_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.10:577][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_ground_Moss_D.T_ground_Moss_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.10:613][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Ground_Gravel_N.T_Ground_Gravel_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.10:641][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Ground_Gravel_D.T_Ground_Gravel_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:045][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Gradinet_01.T_Gradinet_01 (TFO_AutoDXT, 64x256 x1x1x1) (Memoria richiesta stimata: 2.864554 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:059][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Fire_Tiled_D.T_Fire_Tiled_D (TFO_AutoDXT, 512x512 x1x1x1) (Memoria richiesta stimata: 30.83325 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:083][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Frame_N.T_Frame_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:091][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Ground_Grass_D.T_Ground_Grass_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:102][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Frame_M.T_Frame_M (TFO_DXT1, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:124][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Ground_Grass_N.T_Ground_Grass_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:151][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Fire_SubUV.T_Fire_SubUV (TFO_AutoDXT, 1024x1024 x1x1x1) (Memoria richiesta stimata: 122.708323 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:199][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Explosion_SubUV.T_Explosion_SubUV (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:475][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Dust_Particle_D.T_Dust_Particle_D (TFO_AutoDXT, 128x128 x1x1x1) (Memoria richiesta stimata: 3.583295 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:493][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Concrete_Tiles_Variation_M.T_Concrete_Tiles_Variation_M (TFO_AutoDXT, 512x512 x1x1x1) (Memoria richiesta stimata: 30.83325 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:508][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Detail_Rocky_N.T_Detail_Rocky_N (TFO_BC5, 1024x1024 x1x1x1) (Memoria richiesta stimata: 191.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:512][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Door_M.T_Door_M (TFO_DXT1, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:530][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Door_N.T_Door_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:538][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Concrete_Tiles_N.T_Concrete_Tiles_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:572][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Concrete_Tiles_M.T_Concrete_Tiles_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:614][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Concrete_Tiles_D.T_Concrete_Tiles_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:693][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Concrete_Poured_N.T_Concrete_Poured_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:950][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Concrete_Poured_D.T_Concrete_Poured_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:951][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Concrete_Panels_N.T_Concrete_Panels_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:960][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Concrete_Panels_D.T_Concrete_Panels_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:965][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Concrete_Grime_D.T_Concrete_Grime_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.11:990][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_CobbleStone_Smooth_N.T_CobbleStone_Smooth_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:024][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_CobbleStone_Smooth_M.T_CobbleStone_Smooth_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:587][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_CobbleStone_Rough_D.T_CobbleStone_Rough_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Memoria richiesta stimata: 122.708323 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:588][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N (TFO_BC5, 1024x1024 x1x1x1) (Memoria richiesta stimata: 191.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:614][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_CobbleStone_Smooth_D.T_CobbleStone_Smooth_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:646][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_CobbleStone_Pebble_N.T_CobbleStone_Pebble_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:658][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Checker_Noise_M.T_Checker_Noise_M (TFO_AutoDXT, 512x512 x1x1x1) (Memoria richiesta stimata: 46.083323 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:687][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_CobbleStone_Pebble_M.T_CobbleStone_Pebble_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:719][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_CobbleStone_Pebble_D.T_CobbleStone_Pebble_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:724][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Chair_N.T_Chair_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.12:772][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Chair_M.T_Chair_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:070][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Bush_D.T_Bush_D (TFO_AutoDXT, 512x512 x1x1x1) (Memoria richiesta stimata: 46.083323 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:071][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Bush_N.T_Bush_N (TFO_BC5, 512x512 x1x1x1) (Memoria richiesta stimata: 82.499988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:086][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Burst_M.T_Burst_M (TFO_AutoDXT, 512x512 x1x1x1) (Memoria richiesta stimata: 30.83325 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:097][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Ceramic_Tile_N.T_Ceramic_Tile_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:101][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Ceramic_Tile_M.T_Ceramic_Tile_M (TFO_DXT1, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:159][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Hewn_Stone_N.T_Brick_Hewn_Stone_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:164][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Hewn_Stone_M.T_Brick_Hewn_Stone_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:190][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Cut_Stone_N.T_Brick_Cut_Stone_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:198][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Hewn_Stone_D.T_Brick_Hewn_Stone_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:302][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Cut_Stone_D.T_Brick_Cut_Stone_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:682][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Clay_Old_N.T_Brick_Clay_Old_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:684][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Clay_Old_D.T_Brick_Clay_Old_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:684][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Clay_New_N.T_Brick_Clay_New_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:700][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Clay_New_M.T_Brick_Clay_New_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:747][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Clay_New_D.T_Brick_Clay_New_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.13:785][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Clay_Beveled_N.T_Brick_Clay_Beveled_N (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.14:208][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Clay_Beveled_M.T_Brick_Clay_Beveled_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.07.14:215][864]LogTexture: Display: Compilazione delle texture: /Game/_Other/Textures/T_Brick_Clay_Beveled_D.T_Brick_Clay_Beveled_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 288.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.09.16:135][864]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.01-15.09.16:547][864]LogUObjectGlobals: Force Deleting 146 Package(s):
+	Asset Name: /Game/_Other/Materials/M_Basic_Wall.M_Basic_Wall
+	Asset Type: Material
+	Asset Name: /Game/_Other/Textures/T_Wood_Walnut_N.T_Wood_Walnut_N
+	Asset Type: Texture2D
+	Asset Name: /Game/_Other/Textures/T_Wood_Walnut_D.T_Wood_Walnut_D
+	Asset Type: Texture2D
+	Asset Name: /Game/_Other/Textures/T_Wood_Pine_N.T_Wood_Pine_N
+	Asset Type: Texture2D
+	Asset Name: /Game/_Other/Textures/T_Wood_Pine_D.T_Wood_Pine_D
+	Asset Type: Texture2D
+	Asset Name: /Game/_Other/Textures/T_Wood_Oak_N.T_Wood_Oak_N
+	Asset Type: Texture2D
+	Asset Name: /Game/_Other/Textures/T_Wood_Oak_D.T_Wood_Oak_D
+	Asset Type: Texture2D
+	Asset Name: /Game/_Other/Textures/T_Wood_Floor_Walnut_N.T_Wood_Floor_Walnut_N
+	Asset Type: Texture2D
+	Asset Name: /Game/_Other/Textures/T_Wood_Floor_Walnut_M.T_Wood_Floor_Walnut_M
+	Asset Type: Texture2D
+	Asset Name: /Game/_Other/Textures/T_Wood_Floor_Walnut_D.T_Wood_Floor_Walnut_D
+	Asset Type: Texture2D
+[2025.05.01-15.09.17:021][864]LogStaticMesh: Display: Compilazione mesh statica Shape_WideCapsule (stima della memoria necessaria: 1.320765 MB)...
+[2025.05.01-15.09.17:021][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:021][864]LogMaterial: Warning: M_Brick_Clay_Beveled: Requesting an invalid TextureIndex! (2 / 1)
+[2025.05.01-15.09.17:024][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Clay_Beveled.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:026][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:028][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Clay_New.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:030][864]LogStaticMesh: Built static mesh [0.01s] /Game/_Other/Shapes/Shape_WideCapsule.Shape_WideCapsule
+[2025.05.01-15.09.17:032][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Clay_Old.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:033][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Clay_Old.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:035][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:037][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Cut_Stone.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:040][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:042][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Brick_Hewn_Stone.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:044][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Ceramic_Tile_Checker.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:046][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Ceramic_Tile_Checker.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:048][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_CobbleStone_Pebble.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:049][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_CobbleStone_Pebble.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:051][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_CobbleStone_Rough.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.05.01-15.09.17:053][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_CobbleStone_Rough.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2025.05.01-15.09.17:056][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:058][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_CobbleStone_Smooth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:061][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Concrete_Grime.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:063][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Concrete_Grime.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:066][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Concrete_Panels.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:067][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Concrete_Panels.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:069][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:071][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Concrete_Poured.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:073][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:075][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:077][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Ground_Grass.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:078][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Ground_Grass.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:080][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Ground_Gravel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:081][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Ground_Gravel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:083][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Ground_Moss.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:084][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Ground_Moss.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:086][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Brushed_Nickel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:087][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Brushed_Nickel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:089][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:090][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Burnished_Steel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:093][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Chrome.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:094][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Chrome.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:096][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:097][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Copper.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:098][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:100][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:102][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:103][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Rust.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:105][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:107][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:108][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Rock_Basalt.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:110][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Rock_Basalt.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:112][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:113][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Rock_Marble_Polished.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:115][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:116][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:119][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:120][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Rock_Slate.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:122][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Tech_Checker_Dot.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:123][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Tech_Checker_Dot.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:125][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Tech_Hex_Tile.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:126][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Tech_Hex_Tile.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:128][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:130][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Tech_Hex_Tile_Pulse.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:132][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Tech_Panel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:133][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Tech_Panel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:135][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:137][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:139][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:140][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Water_Ocean.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:142][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2025.05.01-15.09.17:143][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Floor_Walnut_Polished.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2025.05.01-15.09.17:146][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2025.05.01-15.09.17:147][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Floor_Walnut_Worn.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Alpha is Cavity Mask> Missing input texture
+	(Node TextureSample) Alpha is AO> Missing input texture
+
+[2025.05.01-15.09.17:149][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:150][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:152][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:154][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Pine.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:156][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Walnut.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.17:157][864]LogMaterial: Warning: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\_Other\Materials\M_Wood_Walnut.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.01-15.09.21:210][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.01-15.09.21:243][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.01-15.09.21:273][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.05.01-15.09.21:563][868]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.05.01-15.09.55:750][897]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.01-15.09.55:767][897]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.01-15.09.55:801][899]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.01-15.10.02:092][336]LogContentBrowser: Attempting asset rename: NewMaterial -> M_ItemBox
+[2025.05.01-15.10.02:098][336]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.01-15.10.10:010][437]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ItemBox/M_ItemBox.M_ItemBox
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.05.01-15.10.10:024][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.05.01-15.10.10:024][437]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.05.01-15.10.10:025][437]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.05.01-15.10.10:052][437]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.05.01-15.10.10:172][437]LogStreaming: Display: FlushAsyncLoading(1144): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.10.10:722][437]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-15.10.10:722][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-15.10.10:722][437]MaterialEditorStats: Shader Count: 0
+[2025.05.01-15.10.10:722][437]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.05.01-15.10.12:658][512]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.05.01-15.10.12:658][512]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-15.10.12:658][512]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-15.10.12:658][512]MaterialEditorStats: Shader Count: 1
+[2025.05.01-15.10.12:658][512]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.05.01-15.10.12:869][524]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.05.01-15.10.12:869][524]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.05.01-15.10.12:869][524]MaterialEditorStats: Texture samplers: 1/16
+[2025.05.01-15.10.12:869][524]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-15.10.12:869][524]MaterialEditorStats: Shader Count: 2
+[2025.05.01-15.10.12:870][524]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.05.01-15.11.08:577][194]LogStaticMesh: Display: Compilazione mesh statica Box_74B86182 (stima della memoria necessaria: 0.080549 MB)...
+[2025.05.01-15.11.08:580][194]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/giorg/Box_74B86182.Box_74B86182
+[2025.05.01-15.11.50:040][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6288.681641
+[2025.05.01-15.11.51:042][774]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-15.11.51:042][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6289.350098, Update Interval: 326.847748
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: ================================================
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Total job queries 164, among them cache hits 21 (12.80%), DDC hits 133 (81.10%), Duplicates 2 (1.22%)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Tracking 141 distinct input hashes that result in 133 distinct outputs (94.33%)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: RAM used: 113,40 KiB of 819,20 MiB budget. Usage: 0.01%
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Shaders Compiled: 8
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Average time worker was idle: 3650.92 s
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.09 s
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 2.55 s
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Job life time (pending + execution): average 1.42 s, max 2.55
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Shader code size: average 7,641 KiB, min 2,691 KiB, max 12,18 KiB
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.60 s
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Average processing rate: 1.74 jobs/sec
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Total thread time: 5,188 s
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Total thread preprocess time: 3,203 s
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Percentage time preprocessing: 61.74%
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Effective parallelization: 1.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 7
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.17 sec, max 1.17 sec, min 1.17 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.66 sec, max 0.70 sec, min 0.62 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.52% of total time (compiled    2 times, average 0.66 sec, max 0.70 sec, min 0.62 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.55% of total time (compiled    1 times, average 1.17 sec, max 1.17 sec, min 1.17 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.14% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                                  FVelocityPS - 10.26% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display:                                                  FHitProxyPS - 8.89% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: === Material stats ===
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Materials Translated:    253
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Material Translation Only: 0.08 s (40%)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.05.01-15.12.21:553][150]LogShaderCompilers: Display: Material Cache Hits: 15 (6%)
+[2025.05.01-15.12.21:555][150]LogShaderCompilers: Display: ================================================
+[2025.05.01-15.12.49:643][325]Cmd: TRANSACTION UNDO
+[2025.05.01-15.12.49:643][325]LogEditorTransaction: Undo Muovi elementi
+[2025.05.01-15.12.50:132][331]Cmd: TRANSACTION UNDO
+[2025.05.01-15.12.50:132][331]LogEditorTransaction: Undo Strumento modifica normali
+[2025.05.01-15.12.50:278][333]Cmd: TRANSACTION UNDO
+[2025.05.01-15.13.09:630][593]LogStaticMesh: Display: Compilazione mesh statica Box_74B86182 (stima della memoria necessaria: 0.080549 MB)...
+[2025.05.01-15.13.09:631][593]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/giorg/Box_74B86182.Box_74B86182
+[2025.05.01-15.14.57:351][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.01-15.14.57:357][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level_1/D/4C/TJYVI8LCSQ6FWYMLG40VZD_Auto7
+[2025.05.01-15.14.57:357][406]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/TJYVI8LCSQ6FWYMLG40VZD_Auto7FCF904EF4FD643FD0F2FE39A82DC696F.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/__ExternalActors__/Levels/Level_1/D/4C/TJYVI8LCSQ6FWYMLG40VZD_Auto7.uasset'
+[2025.05.01-15.14.57:360][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level_1/B/E3/4K0P28DFWPPQHCN2GA6PH0_Auto7
+[2025.05.01-15.14.57:360][406]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/4K0P28DFWPPQHCN2GA6PH0_Auto7CB359F30409E45F724C7619AF075E4FE.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/__ExternalActors__/Levels/Level_1/B/E3/4K0P28DFWPPQHCN2GA6PH0_Auto7.uasset'
+[2025.05.01-15.14.57:364][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.095
+[2025.05.01-15.14.57:364][406]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.095
+[2025.05.01-15.14.57:364][406]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Vehicles/BP_Kart] ([2] browsable assets)...
+[2025.05.01-15.14.57:374][406]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Vehicles/BP_Kart.BP_Kart]
+[2025.05.01-15.14.57:374][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicles/BP_Kart]
+[2025.05.01-15.14.57:408][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Vehicles/BP_Kart_Auto7
+[2025.05.01-15.14.57:408][406]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/BP_Kart_Auto7D0ED46614DB3674F58A2879A3059DB2A.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/Vehicles/BP_Kart_Auto7.uasset'
+[2025.05.01-15.14.57:412][406]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Other/Shapes/Shape_WideCapsule] ([1] browsable assets)...
+[2025.05.01-15.14.57:419][406]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Other/Shapes/Shape_WideCapsule.Shape_WideCapsule]
+[2025.05.01-15.14.57:419][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Other/Shapes/Shape_WideCapsule]
+[2025.05.01-15.14.57:423][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Other/Shapes/Shape_WideCapsule_Auto7
+[2025.05.01-15.14.57:423][406]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Shape_WideCapsule_Auto71ACC65584C4B4338F5C8EE88B676D1C1.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/_Other/Shapes/Shape_WideCapsule_Auto7.uasset'
+[2025.05.01-15.14.57:425][406]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/giorg/Box_74B86182] ([1] browsable assets)...
+[2025.05.01-15.14.57:434][406]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/giorg/Box_74B86182.Box_74B86182]
+[2025.05.01-15.14.57:434][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/giorg/Box_74B86182]
+[2025.05.01-15.14.57:438][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/giorg/Box_74B86182_Auto7
+[2025.05.01-15.14.57:438][406]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Box_74B86182_Auto71D27ED7F4E2895F40268B1B0F3C54002.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/Levels/_GENERATED/giorg/Box_74B86182_Auto7.uasset'
+[2025.05.01-15.14.57:439][406]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ItemBox/M_ItemBox] ([1] browsable assets)...
+[2025.05.01-15.14.57:447][406]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ItemBox/M_ItemBox.M_ItemBox]
+[2025.05.01-15.14.57:447][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ItemBox/M_ItemBox]
+[2025.05.01-15.14.57:449][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ItemBox/M_ItemBox_Auto7
+[2025.05.01-15.14.57:450][406]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/M_ItemBox_Auto773CBF91640DE1FCE2CE6FB94E19D4C21.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Autosaves/Game/ItemBox/M_ItemBox_Auto7.uasset'
+[2025.05.01-15.14.57:450][406]LogFileHelpers: Auto-saving content packages took 0.087
+[2025.05.01-15.15.14:908][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.01-15.15.15:966][570]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.01-15.15.16:033][570]LogSlate: Window 'M_ItemBox' being destroyed
+[2025.05.01-15.15.16:084][570]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ItemBox/M_ItemBox.M_ItemBox
+	Asset Type: Material
+[2025.05.01-15.15.16:369][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.05.01-15.15.16:395][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.05.01-15.15.16:415][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.05.01-15.17.08:119][496]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.05.01-15.17.08:125][496]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.05.01-15.17.31:985][852]LogFab: Display: Asset Type = glb
+[2025.05.01-15.17.31:985][852]LogFab: Display: Is Quixel = 0
+[2025.05.01-15.17.42:891][466]LogStreaming: Display: FlushAsyncLoading(1148): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.17.43:718][466]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.05.01-15.17.43:720][466]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/giorg/AppData/Local/Temp/FabLibrary/61bbfeab-6deb-4bd8-999e-0c0006c1ec5b/old_friend.glb]
+[2025.05.01-15.17.43:860][473]LogStreaming: Display: FlushAsyncLoading(1184): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.17.44:340][499]LogStreaming: Display: FlushAsyncLoading(1191): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.17.44:688][519]LogStreaming: Display: FlushAsyncLoading(1193): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.17.44:990][535]LogStreaming: Display: FlushAsyncLoading(1195): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.17.46:118][567]LogAsyncCompilation: Display: ATTENZIONE: la stima della memoria AssetCompile è superiore al disponibile, ma la utilizziamo [TextureDerivedData] comunque! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 599.296875 MiB 
+[2025.05.01-15.17.46:118][567]LogAsyncCompilation: Display: ATTENZIONE: la stima della memoria AssetCompile è superiore al disponibile, ma la utilizziamo [TextureDerivedData] comunque! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 591.753906 MiB 
+[2025.05.01-15.17.46:153][567]LogTexture: Display: Compilazione delle texture: /Game/Fab/_Old_Friend__/old_friend_texture_0.old_friend_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Memoria richiesta stimata: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.17.46:730][598]LogStaticMesh: Display: Compilazione mesh statica old_friend (stima della memoria necessaria: 398.897428 MB)...
+[2025.05.01-15.17.46:774][600]LogTexture: Display: Compilazione delle texture: /Game/Fab/_Old_Friend__/old_friend_texture_1.old_friend_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Memoria richiesta stimata: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.17.49:367][740]LogStaticMesh: Built static mesh [2.64s] /Game/Fab/_Old_Friend__/old_friend.old_friend
+[2025.05.01-15.17.49:778][750]LogStaticMesh: Warning: old_friend ha alcune normali quasi nulle che possono creare dei problemi. (Tolleranza di 1E-4)
+[2025.05.01-15.17.49:778][750]LogStaticMesh: Warning: old_friend ha alcune bi-normali quasi nulle che possono creare dei problemi. (Tolleranza di 1E-4)
+[2025.05.01-15.17.49:803][752]LogTexture: Display: Compilazione delle texture: /Game/Fab/_Old_Friend__/old_friend_texture_2.old_friend_texture_2 (TFO_BC5, 4096x4096 x1x1x1) (Memoria richiesta stimata: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.17.50:209][770]LogTexture: Display: Compilazione delle texture: /Game/Fab/_Old_Friend__/old_friend_texture_3.old_friend_texture_3 (TFO_AutoDXT, 4096x4096 x1x1x1) (Memoria richiesta stimata: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.17.50:667][793]LogTexture: Display: Compilazione delle texture: /Game/Fab/_Old_Friend__/old_friend_texture_5.old_friend_texture_5 (TFO_BC5, 4096x4096 x1x1x1) (Memoria richiesta stimata: 1152.999984 MB), EncodeSpeed: Fast
+[2025.05.01-15.17.51:128][814]LogTexture: Display: Compilazione delle texture: /Game/Fab/_Old_Friend__/old_friend_texture_4.old_friend_texture_4 (TFO_AutoDXT, 4096x4096 x1x1x1) (Memoria richiesta stimata: 1120.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.17.52:835][832]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x84 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 32% occupied, 81114 triangles, old_friend
+[2025.05.01-15.17.52:863][833]LogInterchangeEngine: Display: Interchange import completed [C:/Users/giorg/AppDa...d8-999e-0c0006c1ec5b/old_friend.glb]
+[2025.05.01-15.17.55:127][946]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x84 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 32% occupied, 81114 triangles, old_friend
+[2025.05.01-15.18.08:866][593]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6667.500000
+[2025.05.01-15.18.09:065][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-15.18.09:065][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6667.681641, Update Interval: 331.403534
+[2025.05.01-15.18.09:656][633]LogSlate: Took 0.000911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: ================================================
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Total job queries 187, among them cache hits 21 (11.23%), DDC hits 133 (71.12%), Duplicates 2 (1.07%)
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Tracking 164 distinct input hashes that result in 147 distinct outputs (89.63%)
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: RAM used: 118,34 KiB of 819,20 MiB budget. Usage: 0.01%
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Shaders Compiled: 31
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Jobs assigned 31, completed 31 (100%)
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Average time worker was idle: 818.25 s
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Time job spent in pending queue: average 0.72 s, longest 2.53 s
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Job execution time: average 1.59 s, max 4.17 s
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Job life time (pending + execution): average 2.31 s, max 6.70
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Shader code size: average 9,068 KiB, min 2,691 KiB, max 40,434 KiB
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.42 s
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Average processing rate: 2.01 jobs/sec
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Total thread time: 29,771 s
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Total thread preprocess time: 3,668 s
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Percentage time preprocessing: 12.32%
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Effective parallelization: 1.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 7
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 4.04 sec, max 4.04 sec, min 4.04 sec)
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.14 sec, max 2.14 sec, min 2.14 sec)
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.61 sec, max 2.01 sec, min 1.17 sec)
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.85 sec, max 1.12 sec, min 0.62 sec)
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    5 times, average 0.61 sec, max 0.82 sec, min 0.46 sec)
+[2025.05.01-15.18.21:564][327]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.60% of total time (compiled    4 times, average 1.61 sec, max 2.01 sec, min 1.17 sec)
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.34% of total time (compiled    5 times, average 0.85 sec, max 1.12 sec, min 0.62 sec)
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.56% of total time (compiled    1 times, average 4.04 sec, max 4.04 sec, min 4.04 sec)
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display:                                                  FHitProxyPS - 10.32% of total time (compiled    5 times, average 0.61 sec, max 0.82 sec, min 0.46 sec)
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.89% of total time (compiled    6 times, average 0.49 sec, max 0.60 sec, min 0.41 sec)
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display: === Material stats ===
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display: Materials Translated:    289
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display: Material Total Translate Time: 0.41 s
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display: Material Translation Only: 0.25 s (62%)
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display: Material Cache Hits: 15 (5%)
+[2025.05.01-15.18.21:565][327]LogShaderCompilers: Display: ================================================
+[2025.05.01-15.18.27:117][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/_Old_Friend__/old_friend.old_friend
+[2025.05.01-15.18.27:118][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/_Old_Friend__/old_friend.old_friend
+[2025.05.01-15.18.27:118][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/_Old_Friend__/old_friend.old_friend as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_0
+[2025.05.01-15.18.27:866][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.01-15.18.27:917][655]LogEditorActor: Deleted 0 Actors (0.091 secs)
+[2025.05.01-15.18.27:929][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/_Old_Friend__/old_friend.old_friend
+[2025.05.01-15.18.27:930][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/_Old_Friend__/old_friend.old_friend
+[2025.05.01-15.18.27:932][655]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/_Old_Friend__/old_friend.old_friend as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_UAID_DC4BA108E58B356402_1994304427
+[2025.05.01-15.18.36:947][109]Cmd: DELETE
+[2025.05.01-15.18.36:947][109]Cmd: ACTOR DELETE
+[2025.05.01-15.18.36:956][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-15.18.36:982][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.01-15.18.36:989][109]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.05.01-15.20.04:840][214]LogFab: Display: Asset Type = glb
+[2025.05.01-15.20.04:841][214]LogFab: Display: Is Quixel = 0
+[2025.05.01-15.20.05:978][250]LogStreaming: Display: FlushAsyncLoading(1196): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.20.05:980][250]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.05.01-15.20.05:982][250]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/giorg/AppData/Local/Temp/FabLibrary/60eb5b77-32b2-4af2-805f-a30565b4fc68/sci_fi_container_free_02_fbx.glb]
+[2025.05.01-15.20.06:023][252]LogStreaming: Display: FlushAsyncLoading(1197): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.20.06:133][259]LogStreaming: Display: FlushAsyncLoading(1200): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.20.06:165][261]LogStreaming: Display: FlushAsyncLoading(1201): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.20.06:217][262]LogTexture: Display: Compilazione delle texture: /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx_texture_1.sci_fi_container_free_02_fbx_texture_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.20.06:218][262]LogTexture: Display: Compilazione delle texture: /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx_texture_0.sci_fi_container_free_02_fbx_texture_0 (TFO_AutoDXT, 2048x2048 x1x1x1) (Memoria richiesta stimata: 280.999983 MB), EncodeSpeed: Fast
+[2025.05.01-15.20.06:219][262]LogTexture: Display: Compilazione delle texture: /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx_texture_2.sci_fi_container_free_02_fbx_texture_2 (TFO_BC5, 2048x2048 x1x1x1) (Memoria richiesta stimata: 359.999988 MB), EncodeSpeed: Fast
+[2025.05.01-15.20.06:415][270]LogStaticMesh: Display: Compilazione mesh statica sci_fi_container_free_02_fbx (stima della memoria necessaria: 4.95542 MB)...
+[2025.05.01-15.20.06:488][273]LogStaticMesh: Built static mesh [0.08s] /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx.sci_fi_container_free_02_fbx
+[2025.05.01-15.20.06:676][276]LogInterchangeEngine: Display: Interchange import completed [C:/Users/giorg/AppDa...f2-805f-a30565b4fc68/sci_fi_container_free_02_fbx.glb]
+[2025.05.01-15.20.14:341][655]LogSlate: Window 'Fab' being destroyed
+[2025.05.01-15.20.14:427][655]LogSlate: Window 'Fab' being destroyed
+[2025.05.01-15.20.15:846][738]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.05.01-15.20.15:846][738]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/60eb5b77-32b2-4af2-805f-a30565b4fc68.
+[2025.05.01-15.20.21:490][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.01-15.20.23:354][ 54]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.01-15.20.23:460][ 54]LogUObjectGlobals: Force Deleting 12 Package(s):
+	Asset Name: /Game/Fab/_Old_Friend__/boxxy.boxxy
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Fab/_Old_Friend__/boxxy_dark.boxxy_dark
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Fab/_Old_Friend__/energy.energy
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Fab/_Old_Friend__/glass.glass
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Fab/_Old_Friend__/old_friend.old_friend
+	Asset Type: StaticMesh
+	Asset Name: /Game/Fab/_Old_Friend__/old_friend_texture_0.old_friend_texture_0
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/_Old_Friend__/old_friend_texture_1.old_friend_texture_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/_Old_Friend__/old_friend_texture_2.old_friend_texture_2
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/_Old_Friend__/old_friend_texture_3.old_friend_texture_3
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/_Old_Friend__/old_friend_texture_4.old_friend_texture_4
+	Asset Type: Texture2D
+[2025.05.01-15.20.24:016][ 54]LogStaticMesh: Display: In attesa che mesh statiche sia pronto 0/1 (/Game/Fab/_Old_Friend__/old_friend) ...
+[2025.05.01-15.20.25:500][ 54]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x84 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 32% occupied, 81114 triangles, old_friend
+[2025.05.01-15.20.25:769][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.01-15.20.25:799][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.05.01-15.20.25:821][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.05.01-15.20.36:995][659]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Sci-fi_Container_Free_02/material.material
+[2025.05.01-15.20.37:018][659]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.05.01-15.20.41:793][829]LogSlate: Window 'material' being destroyed
+[2025.05.01-15.20.41:840][829]LogSlate: Window 'material' being destroyed
+[2025.05.01-15.20.41:888][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.01-15.20.45:055][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.05.01-15.20.47:989][  6]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx.sci_fi_container_free_02_fbx
+[2025.05.01-15.20.48:134][  6]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.05.01-15.20.48:379][  6]LogStreaming: Display: FlushAsyncLoading(1202): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.21.06:469][609]LogStreaming: Display: FlushAsyncLoading(1203): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.01-15.21.06:528][609]LogInterchangeEngine: [In sospeso] Importazione
+[2025.05.01-15.21.06:529][609]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/giorg/AppData/Local/Temp/FabLibrary/60eb5b77-32b2-4af2-805f-a30565b4fc68/sci_fi_container_free_02_fbx.glb]
+[2025.05.01-15.21.06:962][615]LogStaticMesh: Display: Compilazione mesh statica sci_fi_container_free_02_fbx (stima della memoria necessaria: 4.95542 MB)...
+[2025.05.01-15.21.06:980][615]LogStaticMesh: Display: In attesa che mesh statiche sia pronto 0/1 (/Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx) ...
+[2025.05.01-15.21.07:003][615]LogStaticMesh: Built static mesh [0.04s] /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx.sci_fi_container_free_02_fbx
+[2025.05.01-15.21.07:229][616]LogInterchangeEngine: Display: Interchange import completed [C:/Users/giorg/AppDa...f2-805f-a30565b4fc68/sci_fi_container_free_02_fbx.glb]
+[2025.05.01-15.21.07:230][616]LogInterchangeEngine: [In sospeso] Importazione - Operation completed.
+[2025.05.01-15.21.07:230][616]LogInterchangeEngine: [Operazione riuscita] Importazione completata
+[2025.05.01-15.21.08:681][665]LogSlate: Window 'sci_fi_container_free_02_fbx' being destroyed
+[2025.05.01-15.21.08:747][665]LogSlate: Window 'sci_fi_container_free_02_fbx' being destroyed
+[2025.05.01-15.21.08:828][665]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-15.21.08:828][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-15.21.08:911][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.01-15.21.18:784][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.01-15.21.19:676][ 90]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.01-15.21.19:780][ 90]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx_texture_0_Mat.sci_fi_container_free_02_fbx_texture_0_Mat
+	Asset Type: Material
+[2025.05.01-15.21.20:067][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.05.01-15.21.20:090][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.01-15.21.20:109][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: ================================================
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Total job queries 231, among them cache hits 28 (12.12%), DDC hits 133 (57.58%), Duplicates 2 (0.87%)
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Tracking 201 distinct input hashes that result in 174 distinct outputs (86.57%)
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: RAM used: 129,12 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Shaders Compiled: 68
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Jobs assigned 68, completed 68 (100%)
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Average time worker was idle: 343.39 s
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Time job spent in pending queue: average 0.55 s, longest 2.53 s
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 4.17 s
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Job life time (pending + execution): average 1.94 s, max 6.70
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Shader code size: average 9,592 KiB, min 2,691 KiB, max 40,434 KiB
+[2025.05.01-15.21.21:579][179]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.01 s
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Jobs were issued in 68 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Average processing rate: 2.72 jobs/sec
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Total thread time: 60,382 s
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Total thread preprocess time: 4,476 s
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Percentage time preprocessing: 7.41%
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Effective parallelization: 2.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 7
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.14 sec, max 2.14 sec, min 2.14 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.86 sec, max 1.94 sec, min 1.72 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 1.54 sec, max 2.01 sec, min 1.17 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 1.53 sec, max 4.04 sec, min 0.56 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.02 sec, max 1.10 sec, min 0.94 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.85% of total time (compiled    7 times, average 1.54 sec, max 2.01 sec, min 1.17 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.45% of total time (compiled    9 times, average 0.84 sec, max 1.12 sec, min 0.60 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.10% of total time (compiled    4 times, average 1.53 sec, max 4.04 sec, min 0.56 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.25% of total time (compiled    3 times, average 1.86 sec, max 1.94 sec, min 1.72 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.10% of total time (compiled   10 times, average 0.49 sec, max 0.62 sec, min 0.34 sec)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: === Material stats ===
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Materials Translated:    293
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Material Total Translate Time: 0.42 s
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Material Translation Only: 0.26 s (61%)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: Material Cache Hits: 15 (5%)
+[2025.05.01-15.21.21:580][179]LogShaderCompilers: Display: ================================================
+[2025.05.01-15.21.25:252][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.05.01-15.21.26:649][382]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.01-15.21.26:710][382]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Fab/Sci-fi_Container_Free_02/material.material
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx.sci_fi_container_free_02_fbx
+	Asset Type: StaticMesh
+	Asset Name: /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx_texture_0.sci_fi_container_free_02_fbx_texture_0
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx_texture_1.sci_fi_container_free_02_fbx_texture_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/Sci-fi_Container_Free_02/sci_fi_container_free_02_fbx_texture_2.sci_fi_container_free_02_fbx_texture_2
+	Asset Type: Texture2D
+[2025.05.01-15.21.27:263][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.01-15.21.27:292][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.05.01-15.21.27:323][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.05.01-15.23.19:642][301]LogFab: Display: Asset Type = glb
+[2025.05.01-15.23.19:642][301]LogFab: Display: Is Quixel = 0
+[2025.05.01-15.23.34:678][673]LogFab: Display: The listing with Id 258c9c6d-7bb6-4d45-b7c9-b352227144ae is already being processed.
+[2025.05.01-15.23.53:613][690]LogSlate: Window 'Fab' being destroyed
+[2025.05.01-15.23.53:664][690]LogSlate: Window 'Fab' being destroyed
+[2025.05.01-15.23.55:115][778]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.05.01-15.23.55:115][778]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/library?sort_by=-createdAt.
+[2025.05.01-15.23.55:583][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.05.01-15.23.56:741][805]LogSlate: Window 'Salva contenuto' being destroyed
+[2025.05.01-15.23.56:791][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-15.23.56:873][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_1/B/E3/4K0P28DFWPPQHCN2GA6PH0
+[2025.05.01-15.23.56:873][805]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/4K0P28DFWPPQHCN2GA6PH030C6E3AA41E476707FCABCB893C09433.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/__ExternalActors__/Levels/Level_1/B/E3/4K0P28DFWPPQHCN2GA6PH0.uasset'
+[2025.05.01-15.23.56:879][805]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/giorg/Box_74B86182] ([1] browsable assets)...
+[2025.05.01-15.23.56:879][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/giorg/Box_74B86182]
+[2025.05.01-15.23.56:882][805]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/giorg/Box_74B86182
+[2025.05.01-15.23.56:882][805]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Box_74B8618209E7F53E4D1FEF6B35D06BB42792E73E.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/Levels/_GENERATED/giorg/Box_74B86182.uasset'
+[2025.05.01-15.23.56:889][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_1/D/4C/TJYVI8LCSQ6FWYMLG40VZD
+[2025.05.01-15.23.56:890][805]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/TJYVI8LCSQ6FWYMLG40VZD6E09A2784D0DC1F337A716958B72ED58.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/__ExternalActors__/Levels/Level_1/D/4C/TJYVI8LCSQ6FWYMLG40VZD.uasset'
+[2025.05.01-15.23.56:892][805]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vehicles/BP_Kart] ([2] browsable assets)...
+[2025.05.01-15.23.56:892][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicles/BP_Kart]
+[2025.05.01-15.23.56:892][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/BP_Kart" FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/Vehicles/BP_Kart.uasset" SILENT=true
+[2025.05.01-15.23.56:927][805]LogSavePackage: Moving output files for package: /Game/Vehicles/BP_Kart
+[2025.05.01-15.23.56:928][805]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/BP_Kart2C9A271D4477D77DEFE9D1A382AAC8A4.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/Vehicles/BP_Kart.uasset'
+[2025.05.01-15.23.56:930][805]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Other/Shapes/Shape_WideCapsule] ([1] browsable assets)...
+[2025.05.01-15.23.56:930][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Other/Shapes/Shape_WideCapsule]
+[2025.05.01-15.23.56:933][805]LogSavePackage: Moving output files for package: /Game/_Other/Shapes/Shape_WideCapsule
+[2025.05.01-15.23.56:934][805]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/Shape_WideCapsuleD54254014129918CFE7E25A2CAB3C1D1.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/_Other/Shapes/Shape_WideCapsule.uasset'
+[2025.05.01-15.23.56:947][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.483 ms (total: 3.89 sec)
+[2025.05.01-15.23.57:001][805]LogContentValidation: Display: Starting to validate 5 assets
+[2025.05.01-15.23.57:001][805]LogContentValidation: Enabled validators:
+[2025.05.01-15.23.57:001][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.01-15.23.57:001][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.01-15.23.57:001][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.01-15.23.57:001][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.01-15.23.57:001][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.01-15.23.57:001][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.01-15.23.57:001][805]AssetCheck: /Game/Levels/_GENERATED/giorg/Box_74B86182 Convalida asset
+[2025.05.01-15.23.57:002][805]AssetCheck: /Game/Levels/Level_1 Convalida asset
+[2025.05.01-15.23.57:002][805]AssetCheck: /Game/Vehicles/BP_Kart Convalida asset
+[2025.05.01-15.23.57:004][805]AssetCheck: /Game/_Other/Shapes/Shape_WideCapsule Convalida asset
+[2025.05.01-15.24.34:230][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7052.846680
+[2025.05.01-15.24.35:238][148]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.01-15.24.35:238][148]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7053.517578, Update Interval: 357.473083
+[2025.05.01-15.24.58:989][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.01-15.24.58:991][219]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.030
+[2025.05.01-15.25.25:932][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.05.01-15.25.25:994][867]LogStall: Shutdown...
+[2025.05.01-15.25.25:994][867]LogStall: Shutdown complete.
+[2025.05.01-15.25.26:036][867]LogSlate: Window 'KartGame_Unreal5 - Unreal Editor' being destroyed
+[2025.05.01-15.25.26:416][867]Cmd: QUIT_EDITOR
+[2025.05.01-15.25.26:417][867]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.01-15.25.26:431][868]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.01-15.25.26:433][868]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.01-15.25.26:433][868]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.01-15.25.26:442][868]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-15.25.26:442][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-15.25.26:442][868]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level_1.Level_1
+[2025.05.01-15.25.26:473][868]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.01-15.25.26:483][868]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.01-15.25.26:512][868]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-15.25.26:512][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-15.25.26:515][868]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-15.25.26:516][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-15.25.26:519][868]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-15.25.26:519][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-15.25.26:522][868]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-15.25.26:522][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-15.25.26:526][868]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-15.25.26:526][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-15.25.26:542][868]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.01-15.25.26:553][868]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.01-15.25.26:553][868]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.01-15.25.26:553][868]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.01-15.25.26:950][868]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.01-15.25.26:950][868]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.01-15.25.26:950][868]LogAudio: Display: Audio Device unregistered from world 'Level_1'.
+[2025.05.01-15.25.26:951][868]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.01-15.25.26:952][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.01-15.25.26:965][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.01-15.25.26:990][868]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.01-15.25.26:990][868]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.01-15.25.26:994][868]LogWindowsTextInputMethodSystem: Activated input method: Italiano (Italia) - (Keyboard).
+[2025.05.01-15.25.27:002][868]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.01-15.25.27:003][868]LogExit: Preparing to exit.
+[2025.05.01-15.25.27:081][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.01-15.25.27:104][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:108][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:120][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:123][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:124][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:124][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:124][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:125][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:125][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:125][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:125][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:125][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:126][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:126][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:126][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:126][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:126][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:126][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:127][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:128][868]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:128][868]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.01-15.25.27:651][868]LogEditorDataStorage: Deinitializing
+[2025.05.01-15.25.28:081][868]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.01-15.25.28:250][868]LogExit: Editor shut down
+[2025.05.01-15.25.28:274][868]LogExit: Transaction tracking system shut down
+[2025.05.01-15.25.29:244][868]LogExit: Object subsystem successfully closed.
+[2025.05.01-15.25.29:337][868]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.01-15.25.30:774][868]LogMemoryProfiler: Shutdown
+[2025.05.01-15.25.30:776][868]LogNetworkingProfiler: Shutdown
+[2025.05.01-15.25.30:776][868]LoadingProfiler: Shutdown
+[2025.05.01-15.25.30:777][868]LogTimingProfiler: Shutdown
+[2025.05.01-15.25.31:957][868]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.01-15.25.31:972][868]RenderDocPlugin: plugin has been unloaded.
+[2025.05.01-15.25.32:012][868]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
+[2025.05.01-15.25.32:013][868]LogHttp: Warning: 	verb=[GET] url=[https://emp-cloudflare-stitched.epicgamescdn.com/Builds/Org/o-aa83a0a9bc45e98c80c1b1c9d92e9e/45da1a2f292a46c78dab0c98c5181e9a/b2cd564f9ca04b9ea0fa4741887f1373/box.glb?cfl_token=1746113254-SLDq4YbM1NErDCwOHTcjYsrv7xUgNr33nBfIJR1fTJw%3D] refs=[2] status=Processing
+[2025.05.01-15.25.32:013][868]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B248BD8C7-4E95-A1A3-3C5E-DABE497F5FBC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=d0609abe4cd85913f1f6f898b1fd6c49%7C2ed29055b1554d7f8b98652e5ebf3f3a%7C7f4b78db-111e-4eb4-bb73-683a6fa53f34&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.01-15.25.32:013][868]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.01-15.25.32:514][868]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.01-15.25.33:015][868]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.01-15.25.33:516][868]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.01-15.25.34:017][868]LogHttp: Warning: [FHttpManager::Flush] FlushTimeSoftLimitSeconds [2.000s] exceeded. Cancelling 1 outstanding HTTP requests:
+[2025.05.01-15.25.34:017][868]LogHttp: Warning: 	verb=[GET] url=[https://emp-cloudflare-stitched.epicgamescdn.com/Builds/Org/o-aa83a0a9bc45e98c80c1b1c9d92e9e/45da1a2f292a46c78dab0c98c5181e9a/b2cd564f9ca04b9ea0fa4741887f1373/box.glb?cfl_token=1746113254-SLDq4YbM1NErDCwOHTcjYsrv7xUgNr33nBfIJR1fTJw%3D] refs=[2] status=Processing
+[2025.05.01-15.25.34:017][868]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.05.01-15.25.34:517][868]LogHttp: Warning: [FHttpManager::Flush] FlushTimeSoftLimitSeconds [2.000s] exceeded. Cancelling 1 outstanding HTTP requests:
+[2025.05.01-15.25.34:517][868]LogHttp: Warning: 	verb=[GET] url=[https://emp-cloudflare-stitched.epicgamescdn.com/Builds/Org/o-aa83a0a9bc45e98c80c1b1c9d92e9e/45da1a2f292a46c78dab0c98c5181e9a/b2cd564f9ca04b9ea0fa4741887f1373/box.glb?cfl_token=1746113254-SLDq4YbM1NErDCwOHTcjYsrv7xUgNr33nBfIJR1fTJw%3D] refs=[2] status=Processing
+[2025.05.01-15.25.35:078][868]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.01-15.25.35:078][868]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.01-15.25.35:078][868]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.01-15.25.35:081][868]LogXGEController: Cleaning working directory: C:/Users/giorg/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.01-15.25.35:093][868]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.01-15.25.35:093][868]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.01-15.25.35:093][868]LogPakFile: Destroying PakPlatformFile
+[2025.05.01-15.25.35:106][868]LogD3D12RHI: Intel Extensions Framework unloaded
+[2025.05.01-15.25.35:928][868]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.01-15.25.36:009][868]LogExit: Exiting.
+[2025.05.01-15.25.36:052][868]Log file closed, 05/01/25 17:25:36
