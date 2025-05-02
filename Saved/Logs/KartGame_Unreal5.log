@@ -1716,3 +1716,364 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.02-14.47.00:806][366]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2025.05.02-14.47.00:807][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.05.02-14.47.00:881][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.05.02-14.48.45:226][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 329.845917
+[2025.05.02-14.48.46:225][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-14.48.46:225][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 330.512451, Update Interval: 316.227295
+[2025.05.02-14.48.57:301][788]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.02-14.48.58:569][917]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level_1.Level_1:PersistentLevel.Level_1
+[2025.05.02-14.48.58:570][917]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.05.02-14.49.12:611][615]LogSlate: Window 'Level' being destroyed
+[2025.05.02-14.49.12:627][615]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.49.12:627][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.49.12:702][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.02-14.49.20:019][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.05.02-14.49.21:671][109]LogSlate: Window 'Salva contenuto' being destroyed
+[2025.05.02-14.49.21:686][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-14.49.21:785][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.05.02-14.49.21:804][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.02-14.49.21:823][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.05.02-14.49.21:826][109]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_1/7/1R/D7VRNR0BTED1XI5L04X7SG
+[2025.05.02-14.49.21:827][109]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/D7VRNR0BTED1XI5L04X7SGA1364164467B85A47E495C9FC1DD830D.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/__ExternalActors__/Levels/Level_1/7/1R/D7VRNR0BTED1XI5L04X7SG.uasset'
+[2025.05.02-14.49.21:829][109]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_1/E/KA/QNH9K2PB2H8C7T0P4B4ZX9
+[2025.05.02-14.49.21:829][109]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/QNH9K2PB2H8C7T0P4B4ZX9761F4C2C436FC9D77700DD84E92E2431.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/__ExternalActors__/Levels/Level_1/E/KA/QNH9K2PB2H8C7T0P4B4ZX9.uasset'
+[2025.05.02-14.49.21:833][109]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_1/C/8Z/UDL6HXSRKDQUHVEH0KILHS
+[2025.05.02-14.49.21:834][109]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/UDL6HXSRKDQUHVEH0KILHSAE92FF84419A977987D435B1C8038076.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/__ExternalActors__/Levels/Level_1/C/8Z/UDL6HXSRKDQUHVEH0KILHS.uasset'
+[2025.05.02-14.49.21:917][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 230.595 ms (total: 401.907 ms)
+[2025.05.02-14.49.21:917][109]LogStreaming: Display: FlushAsyncLoading(812): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.02-14.49.21:943][109]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuMap
+[2025.05.02-14.49.21:945][109]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StartMenuMap.StartMenuMap
+[2025.05.02-14.49.21:945][109]Cmd: MAP LOAD FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/StartMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.02-14.49.21:966][109]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.49.21:966][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.49.21:966][109]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level_1.Level_1
+[2025.05.02-14.49.21:995][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.02-14.49.22:002][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.02-14.49.22:005][109]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.49.22:005][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.49.22:022][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.02-14.49.22:038][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.05.02-14.49.22:058][109]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenuMap'.
+[2025.05.02-14.49.22:058][109]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuMap
+[2025.05.02-14.49.22:082][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.02-14.49.22:103][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.02-14.49.22:109][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.02-14.49.22:109][109]MapCheck: Controllo della mappa completato: 0 Errori, 0 Avvisi, 0,074 ms impiegati per il completamento.
+[2025.05.02-14.49.22:195][109]LogContentValidation: Display: Starting to validate 3 assets
+[2025.05.02-14.49.22:195][109]LogContentValidation: Enabled validators:
+[2025.05.02-14.49.22:195][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.02-14.49.22:195][109]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.02-14.49.22:195][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.02-14.49.22:195][109]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.02-14.49.22:195][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.02-14.49.22:195][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.02-14.49.25:676][457]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StartMenuMap.StartMenuMap:PersistentLevel.StartMenuMap
+[2025.05.02-14.49.25:676][457]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.05.02-14.49.32:394][991]LogSlate: Window 'StartMenuMap' being destroyed
+[2025.05.02-14.49.32:405][991]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.49.32:405][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.49.32:463][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.02-14.49.36:533][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.02-14.49.36:535][418]LogStreaming: Display: FlushAsyncLoading(814): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.02-14.49.36:564][418]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.02-14.49.36:565][418]LogWorldPartition: ULevel::OnLevelLoaded(Level_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.02-14.49.36:565][418]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.02-14.49.36:565][418]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Level_1.Level_1, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.02-14.49.36:572][418]LogWorldPartition: Display: WorldPartition initialize took 7.570 ms (total: 1.26 sec)
+[2025.05.02-14.49.36:575][418]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
+[2025.05.02-14.49.36:577][418]Cmd: MAP LOAD FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.02-14.49.36:600][418]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.49.36:600][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.49.36:625][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.02-14.49.36:628][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.05.02-14.49.36:629][418]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.49.36:629][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.49.36:629][418]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level_1.Level_1
+[2025.05.02-14.49.36:718][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.05.02-14.49.36:738][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.02-14.49.36:773][418]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2025.05.02-14.49.36:773][418]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.02-14.49.36:775][418]LogWorldPartition: ULevel::OnLevelLoaded(Level_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.02-14.49.36:775][418]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.02-14.49.36:775][418]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Level_1.Level_1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.02-14.49.36:800][418]LogWorldPartition: Display: WorldPartition initialize took 24.593 ms (total: 1.29 sec)
+[2025.05.02-14.49.36:829][418]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.02-14.49.36:852][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.02-14.49.36:858][418]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.02-14.49.36:860][418]MapCheck: Error: Il mondo fa riferimento all'attore caricato spazialmente /Game/Levels/Level_1.TriggerBox 
+[2025.05.02-14.49.36:860][418]MapCheck: Controllo della mappa completato: 1 Errori, 0 Avvisi, 1,423 ms impiegati per il completamento.
+[2025.05.02-14.49.41:428][578]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.05.02-14.49.41:436][578]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.05.02-14.49.47:714][931]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level_1.Level_1:PersistentLevel.Level_1
+[2025.05.02-14.49.47:714][931]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.05.02-14.49.56:394][342]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_VictoryScreen.W_VictoryScreen
+[2025.05.02-14.49.56:397][342]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.05.02-14.49.56:440][342]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.05.02-14.49.56:453][342]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Maiusc+Spazio]
+[2025.05.02-14.49.57:095][342]LogSlateStyle: Warning: Risorsa mancante dallo stile 'CoreStyle': 'Impossibile trovare lo SlateColor 'Foreground'.'
+[2025.05.02-14.49.57:104][342]LogSlate: Took 0.007999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.05.02-14.50.40:588][215]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.50.40:588][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.50.40:674][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.02-14.50.41:121][242]LogSlate: Window 'W_VictoryScreen' being destroyed
+[2025.05.02-14.50.41:149][242]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.50.41:149][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.50.41:154][242]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.50.41:155][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.50.41:202][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.05.02-14.50.44:188][378]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_StartMenu.W_StartMenu
+[2025.05.02-14.50.44:189][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.05.02-14.50.44:243][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.05.02-14.50.46:588][440]LogSlate: Took 0.005098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.05.02-14.51.17:931][  5]LogEditorTransaction: Undo Crea collegamento pin
+[2025.05.02-14.51.18:753][ 36]LogEditorTransaction: Undo Sposta nodo
+[2025.05.02-14.51.19:157][ 60]LogEditorTransaction: Undo Crea collegamento pin
+[2025.05.02-14.51.19:635][ 74]LogEditorTransaction: Undo Sposta nodo
+[2025.05.02-14.51.20:150][ 90]LogEditorTransaction: Undo Sposta nodo
+[2025.05.02-14.51.20:770][109]LogEditorTransaction: Undo Elimina la selezione corrente
+[2025.05.02-14.51.21:254][124]LogEditorTransaction: Undo Elimina la selezione corrente
+[2025.05.02-14.51.23:769][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.05.02-14.51.30:575][525]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_VictoryScreen.W_VictoryScreen
+[2025.05.02-14.51.30:575][525]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.05.02-14.51.30:612][525]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.05.02-14.52.18:007][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.02-14.52.27:626][439]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.52.27:626][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.52.27:632][439]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.52.27:632][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.52.27:676][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.05.02-14.52.29:029][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-14.52.29:097][484]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/W_StartMenu] ([2] browsable assets)...
+[2025.05.02-14.52.29:110][484]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/W_StartMenu.W_StartMenu]
+[2025.05.02-14.52.29:111][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/W_StartMenu]
+[2025.05.02-14.52.29:111][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_StartMenu" FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/UI/W_StartMenu.uasset" SILENT=true
+[2025.05.02-14.52.29:117][484]LogSavePackage: Moving output files for package: /Game/UI/W_StartMenu
+[2025.05.02-14.52.29:117][484]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/W_StartMenu4A8204694A3DE9ECF9E4D087643CDB6B.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/UI/W_StartMenu.uasset'
+[2025.05.02-14.52.29:131][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.004 ms (total: 503.911 ms)
+[2025.05.02-14.52.29:199][484]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.02-14.52.29:199][484]LogContentValidation: Enabled validators:
+[2025.05.02-14.52.29:199][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.02-14.52.29:199][484]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.02-14.52.29:199][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.02-14.52.29:199][484]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.02-14.52.29:199][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.02-14.52.29:199][484]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.02-14.52.29:200][484]AssetCheck: /Game/UI/W_StartMenu Convalida asset
+[2025.05.02-14.52.30:723][563]LogSlate: Window 'W_StartMenu' being destroyed
+[2025.05.02-14.52.30:732][563]LogSlate: Window 'W_StartMenu' being destroyed
+[2025.05.02-14.52.30:744][563]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.52.30:744][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.52.30:750][563]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.52.30:750][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.52.30:809][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.02-14.52.46:495][518]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level_1.Level_1:PersistentLevel.Level_1
+[2025.05.02-14.52.46:495][518]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.05.02-14.52.48:422][563]LogSlate: Window 'Level' being destroyed
+[2025.05.02-14.52.48:440][563]LogSlate: Window 'Level' being destroyed
+[2025.05.02-14.52.48:446][563]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.52.48:447][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.52.48:538][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.02-14.53.03:264][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.02-14.53.03:267][228]LogStreaming: Display: FlushAsyncLoading(943): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.02-14.53.03:288][228]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuMap
+[2025.05.02-14.53.03:290][228]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StartMenuMap.StartMenuMap
+[2025.05.02-14.53.03:290][228]Cmd: MAP LOAD FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/StartMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.02-14.53.03:312][228]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.53.03:312][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.53.03:312][228]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level_1.Level_1
+[2025.05.02-14.53.03:337][228]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.02-14.53.03:342][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.05.02-14.53.03:345][228]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.53.03:345][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.53.03:363][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.02-14.53.03:471][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.02-14.53.03:491][228]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenuMap'.
+[2025.05.02-14.53.03:491][228]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuMap
+[2025.05.02-14.53.03:517][228]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.02-14.53.03:539][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.02-14.53.03:547][228]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.02-14.53.03:547][228]MapCheck: Controllo della mappa completato: 0 Errori, 0 Avvisi, 0,074 ms impiegati per il completamento.
+[2025.05.02-14.53.06:408][473]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StartMenuMap.StartMenuMap:PersistentLevel.StartMenuMap
+[2025.05.02-14.53.06:408][473]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.05.02-14.53.32:188][262]LogBlueprint: Error: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\StartMenuMap.umap: [Compiler] Questa blueprint (self) non è un PlayerController, quindi ' Destinazione ' deve avere un collegamento.
+[2025.05.02-14.53.32:189][262]LogBlueprint: Error: [AssetLog] C:\Users\giorg\Documents\Unreal Projects\KartGame_Unreal5\Content\StartMenuMap.umap: [Compiler] Il nodo variabile  Set bShowMouseCursor  usa una destinazione non valida.  Potrebbe dipendere da un nodo non collegato alla catena di esecuzione, e quindi venire rimosso.
+[2025.05.02-14.53.32:190][262]LogStreaming: Display: FlushAsyncLoading(945): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.02-14.53.32:240][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.02-14.53.56:326][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.02-14.54.01:296][776]LogSlate: Window 'Salva contenuto' being destroyed
+[2025.05.02-14.54.01:316][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-14.54.01:388][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenuMap" FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/StartMenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.02-14.54.01:433][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.05.02-14.54.01:438][776]LogSavePackage: Moving output files for package: /Game/StartMenuMap
+[2025.05.02-14.54.01:439][776]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/StartMenuMap54C482674217FD8EAAF21698AE94F525.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/StartMenuMap.umap'
+[2025.05.02-14.54.01:450][776]LogFileHelpers: Saving map 'StartMenuMap' took 0.064
+[2025.05.02-14.54.01:538][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 222.241 ms (total: 726.153 ms)
+[2025.05.02-14.54.01:538][776]LogStreaming: Display: FlushAsyncLoading(946): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.02-14.54.01:572][776]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.02-14.54.01:572][776]LogWorldPartition: ULevel::OnLevelLoaded(Level_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.02-14.54.01:573][776]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.02-14.54.01:573][776]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Level_1.Level_1, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.02-14.54.01:580][776]LogWorldPartition: Display: WorldPartition initialize took 7.580 ms (total: 1.29 sec)
+[2025.05.02-14.54.01:583][776]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
+[2025.05.02-14.54.01:584][776]Cmd: MAP LOAD FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.02-14.54.01:621][776]LogSlate: Window 'StartMenuMap' being destroyed
+[2025.05.02-14.54.01:633][776]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.54.01:634][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.54.01:653][776]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.54.01:653][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.54.01:678][776]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.02-14.54.01:680][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.05.02-14.54.01:685][776]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.54.01:685][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.54.01:685][776]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level_1.Level_1
+[2025.05.02-14.54.01:705][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.05.02-14.54.01:722][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.05.02-14.54.01:756][776]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2025.05.02-14.54.01:756][776]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.02-14.54.01:758][776]LogWorldPartition: ULevel::OnLevelLoaded(Level_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.02-14.54.01:758][776]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.02-14.54.01:758][776]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Level_1.Level_1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.02-14.54.01:780][776]LogWorldPartition: Display: WorldPartition initialize took 20.680 ms (total: 1.31 sec)
+[2025.05.02-14.54.01:809][776]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.02-14.54.01:835][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.05.02-14.54.01:841][776]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.02-14.54.01:842][776]MapCheck: Error: Il mondo fa riferimento all'attore caricato spazialmente /Game/Levels/Level_1.TriggerBox 
+[2025.05.02-14.54.01:842][776]MapCheck: Controllo della mappa completato: 1 Errori, 0 Avvisi, 1,515 ms impiegati per il completamento.
+[2025.05.02-14.54.02:229][776]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.02-14.54.02:230][776]LogContentValidation: Enabled validators:
+[2025.05.02-14.54.02:230][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.02-14.54.02:230][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.02-14.54.02:230][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.02-14.54.02:230][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.02-14.54.02:230][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.02-14.54.02:230][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.02-14.54.02:819][810]LogStreaming: Display: FlushAsyncLoading(1011): 64 QueuedPackages, 0 AsyncPackages
+[2025.05.02-14.54.02:938][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.05.02-14.54.05:880][999]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.05.02-14.54.05:889][999]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.05.02-14.54.06:361][ 27]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 650.978149
+[2025.05.02-14.54.06:561][ 39]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-14.54.06:561][ 39]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 651.166382, Update Interval: 321.495422
+[2025.05.02-14.54.17:994][570]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_VictoryScreen.W_VictoryScreen
+[2025.05.02-14.54.17:994][570]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.05.02-14.54.18:034][570]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.05.02-14.54.30:186][ 45]LogEditorTransaction: Undo Elimina la selezione corrente
+[2025.05.02-14.54.33:428][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.05.02-14.54.40:521][444]LogSlate: Window 'W_VictoryScreen' being destroyed
+[2025.05.02-14.54.40:539][444]LogSlate: Window 'W_VictoryScreen' being destroyed
+[2025.05.02-14.54.40:550][444]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.54.40:550][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.54.40:558][444]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.54.40:558][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.54.40:604][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.05.02-14.54.47:125][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.05.02-14.54.47:129][750]LogStreaming: Display: FlushAsyncLoading(1075): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.02-14.54.47:149][750]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuMap
+[2025.05.02-14.54.47:150][750]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StartMenuMap.StartMenuMap
+[2025.05.02-14.54.47:150][750]Cmd: MAP LOAD FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/StartMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.02-14.54.47:208][750]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.54.47:208][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.54.47:208][750]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level_1.Level_1
+[2025.05.02-14.54.47:321][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.02-14.54.47:325][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.05.02-14.54.47:329][750]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.54.47:329][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.54.47:347][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.05.02-14.54.47:366][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.05.02-14.54.47:388][750]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenuMap'.
+[2025.05.02-14.54.47:388][750]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuMap
+[2025.05.02-14.54.47:419][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.02-14.54.47:441][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.05.02-14.54.47:448][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.02-14.54.47:448][750]MapCheck: Controllo della mappa completato: 0 Errori, 0 Avvisi, 0,072 ms impiegati per il completamento.
+[2025.05.02-14.54.50:895][990]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StartMenuMap.StartMenuMap:PersistentLevel.StartMenuMap
+[2025.05.02-14.54.50:895][990]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.05.02-14.54.55:823][258]LogSlate: Window 'StartMenuMap' being destroyed
+[2025.05.02-14.54.55:833][258]LogSlate: Window 'StartMenuMap' being destroyed
+[2025.05.02-14.54.55:840][258]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.54.55:840][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.54.55:902][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.05.02-14.55.01:490][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.02-14.55.01:492][584]LogStreaming: Display: FlushAsyncLoading(1077): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.02-14.55.01:522][584]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.02-14.55.01:523][584]LogWorldPartition: ULevel::OnLevelLoaded(Level_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.02-14.55.01:523][584]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.02-14.55.01:523][584]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Level_1.Level_1, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.02-14.55.01:530][584]LogWorldPartition: Display: WorldPartition initialize took 7.851 ms (total: 1.32 sec)
+[2025.05.02-14.55.01:534][584]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_1.Level_1
+[2025.05.02-14.55.01:535][584]Cmd: MAP LOAD FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/Levels/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.02-14.55.01:560][584]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.55.01:560][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.55.01:580][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.02-14.55.01:583][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.05.02-14.55.01:586][584]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.55.01:586][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.55.01:586][584]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level_1.Level_1
+[2025.05.02-14.55.01:690][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.05.02-14.55.01:708][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.02-14.55.01:738][584]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1'.
+[2025.05.02-14.55.01:738][584]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.02-14.55.01:740][584]LogWorldPartition: ULevel::OnLevelLoaded(Level_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.05.02-14.55.01:740][584]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.02-14.55.01:740][584]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Level_1.Level_1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.02-14.55.01:762][584]LogWorldPartition: Display: WorldPartition initialize took 21.938 ms (total: 1.34 sec)
+[2025.05.02-14.55.01:793][584]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.02-14.55.01:822][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.05.02-14.55.01:828][584]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.02-14.55.01:829][584]MapCheck: Error: Il mondo fa riferimento all'attore caricato spazialmente /Game/Levels/Level_1.TriggerBox 
+[2025.05.02-14.55.01:830][584]MapCheck: Controllo della mappa completato: 1 Errori, 0 Avvisi, 1,414 ms impiegati per il completamento.
+[2025.05.02-14.55.05:167][727]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.05.02-14.55.05:199][727]LogSlate: Window 'Registro dei messaggi' being destroyed
+[2025.05.02-14.55.10:177][971]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/W_VictoryScreen.W_VictoryScreen
+[2025.05.02-14.55.10:177][971]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.05.02-14.55.10:205][971]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.05.02-14.55.20:385][350]LogSlate: Window 'W_VictoryScreen' being destroyed
+[2025.05.02-14.55.20:402][350]LogSlate: Window 'W_VictoryScreen' being destroyed
+[2025.05.02-14.55.20:409][350]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.55.20:410][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.55.20:416][350]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.55.20:416][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.55.20:489][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.05.02-14.55.31:270][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.02-14.55.31:273][854]LogStreaming: Display: FlushAsyncLoading(1206): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.02-14.55.31:295][854]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuMap
+[2025.05.02-14.55.31:297][854]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StartMenuMap.StartMenuMap
+[2025.05.02-14.55.31:297][854]Cmd: MAP LOAD FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/StartMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.05.02-14.55.31:318][854]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.55.31:318][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.55.31:318][854]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Level_1.Level_1
+[2025.05.02-14.55.31:350][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.02-14.55.31:355][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.05.02-14.55.31:358][854]LogWorld: UWorld::CleanupWorld for StartMenuMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.55.31:358][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.55.31:375][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.05.02-14.55.31:452][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.05.02-14.55.31:472][854]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenuMap'.
+[2025.05.02-14.55.31:472][854]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuMap
+[2025.05.02-14.55.31:497][854]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.05.02-14.55.31:520][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.05.02-14.55.31:529][854]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.05.02-14.55.31:529][854]MapCheck: Controllo della mappa completato: 0 Errori, 0 Avvisi, 0,116 ms impiegati per il completamento.
+[2025.05.02-14.55.34:104][ 23]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StartMenuMap.StartMenuMap:PersistentLevel.StartMenuMap
+[2025.05.02-14.55.34:104][ 23]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.05.02-14.56.31:597][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.02-14.56.32:616][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-14.56.32:697][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenuMap" FILE="../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/StartMenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.02-14.56.32:744][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.05.02-14.56.32:750][684]LogSavePackage: Moving output files for package: /Game/StartMenuMap
+[2025.05.02-14.56.32:752][684]LogSavePackage: Moving '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Saved/StartMenuMapFF6CFF774B76E3E645A672A649AFE5F0.tmp' to '../../../../../../Users/giorg/Documents/Unreal Projects/KartGame_Unreal5/Content/StartMenuMap.umap'
+[2025.05.02-14.56.32:761][684]LogFileHelpers: Saving map 'StartMenuMap' took 0.065
+[2025.05.02-14.56.32:773][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.942 ms (total: 883.096 ms)
+[2025.05.02-14.56.32:848][684]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.02-14.56.32:849][684]LogContentValidation: Enabled validators:
+[2025.05.02-14.56.32:849][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.02-14.56.32:849][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.02-14.56.32:849][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.02-14.56.32:849][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.02-14.56.32:849][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.02-14.56.32:849][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.02-14.56.32:849][684]AssetCheck: /Game/StartMenuMap Convalida asset
+[2025.05.02-14.56.35:869][849]LogSlate: Window 'StartMenuMap' being destroyed
+[2025.05.02-14.56.35:886][849]LogSlate: Window 'StartMenuMap' being destroyed
+[2025.05.02-14.56.35:892][849]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-14.56.35:893][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-14.56.35:939][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
