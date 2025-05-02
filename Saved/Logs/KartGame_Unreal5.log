@@ -2077,3 +2077,12 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.02-14.56.35:892][849]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
 [2025.05.02-14.56.35:893][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.05.02-14.56.35:939][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.05.02-14.57.17:437][601]LogSlate: External Image Picker: DecompressImage failed
+[2025.05.02-14.59.32:780][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 977.395874
+[2025.05.02-14.59.33:772][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-14.59.33:772][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 978.060242, Update Interval: 341.421539
+[2025.05.02-15.05.18:046][882]LogSlate: Window 'Impostazioni progetto' being destroyed
+[2025.05.02-15.05.18:059][882]LogSlate: Window 'Impostazioni progetto' being destroyed
+[2025.05.02-15.05.25:060][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1329.677246
+[2025.05.02-15.05.26:060][107]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.02-15.05.26:060][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1330.343140, Update Interval: 321.537537
